@@ -8,7 +8,7 @@ HELLO WORLD!
 
 {% highlight ruby %}
 	System.out.println("HELLO WORLD!");
-	// prints "HELLO WORLD!"
+	#=> // prints "HELLO WORLD!"
 {% endhighlight %}
 
 
